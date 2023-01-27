@@ -1,5 +1,5 @@
 {
-    "dockerFile": "Dockerfile",
+    "image": "ghcr.io/craiglpeters/keras:latest",
     "postCreateCommand": "sh /setup.sh",
     "extensions": ["ms-python.python"],
     "settings": {
